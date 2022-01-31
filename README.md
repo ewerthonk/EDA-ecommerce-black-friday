@@ -1,10 +1,13 @@
 # 🔬 Análise de vendas de um E-commerce na Black Friday
----
+
 **Projeto do Módulo 04 do Degree de Data Science da Let's Code**
 
 ## 👨‍💻 Autores
+
 -🕵🏻‍♂️[Ewerthon José Kutz.](https://github.com/ewerthonk/)
+
 -🕵🏻‍♂️[Vitor Jacques.](https://github.com/VitorJacques)
+
 -🕵🏻‍♂️[Cyro Rocha.](https://github.com/mytrael/)
 
 ## 👨🏻‍🏫 Descrição
