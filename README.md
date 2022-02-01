@@ -4,11 +4,11 @@
 
 ## 👨‍💻 Autores
 
--🕵🏻‍♂️[Ewerthon José Kutz.](https://github.com/ewerthonk/)
+🕵🏻‍♂️[Ewerthon José Kutz.](https://github.com/ewerthonk/)
 
--🕵🏻‍♂️[Vitor Jacques.](https://github.com/VitorJacques)
+🕵🏻‍♂️[Vitor Jacques.](https://github.com/VitorJacques)
 
--🕵🏻‍♂️[Cyro Rocha.](https://github.com/mytrael/)
+🕵🏻‍♂️[Cyro Rocha.](https://github.com/mytrael/)
 
 ## 👨🏻‍🏫 Descrição
 O desafio entrega uma base de dados contendo as informações sobre a última Black Friday de um E-Commerce. A base de dados está quebrada em diferentes arquivos e deve-se entender como cada um se relaciona com o outro.
