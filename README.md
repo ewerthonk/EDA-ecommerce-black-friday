@@ -1,53 +1,40 @@
-# 🔬 Análise de vendas de um E-commerce na Black Friday
+# 🔬 Exploratory Data Analysis: E-commerce sales during Black Friday
 
-**Projeto do Módulo 04 do Degree de Data Science da Let's Code**
+<div align="center"><img src="./images/readme_image.png" width="500"></div>
 
-## 👨‍💻 Autores
+<div align="center">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">    
+<img src="https://img.shields.io/badge/seaborn-add8e6?style=for-the-badge&logo=python&logoColor=333333">    
+</div>
 
-🕵🏻‍♂️[Ewerthon José Kutz.](https://github.com/ewerthonk/)
+## 👨🏻‍🏫 Description
 
-🕵🏻‍♂️[Vitor Jacques.](https://github.com/VitorJacques)
+Exploratory Data Analysis on a dataset containing Black Friday sales information of an E-Commerce.
 
-🕵🏻‍♂️[Cyro Rocha.](https://github.com/mytrael/)
+This EDA is restricted to **visual analysis tools** only. The challenge was to produce insights only by visualization.
 
-## 👨🏻‍🏫 Descrição
-O desafio entrega uma base de dados contendo as informações sobre a última Black Friday de um E-Commerce. A base de dados está quebrada em diferentes arquivos e deve-se entender como cada um se relaciona com o outro.
+**Questions to be answered by the EDA:**
 
-Com a base preparada, ela será utilizada para praticar exploração analítica e a biblioteca Pandas.
+- Does the marital status influences in the Average Purchase Value?
+- Does the marital status influences in the Purchase Category?
+- If one wants to sell more products of category 14, should one invest more in publicity for marital status 0 or 1?
+- Which variables are correlated to the value of the purchase?
 
-Dataset final: 
+**Dataset:** 
 
-| Coluna                 | Descrição                                                 |
+| Column                 | Description                                               |
 |:-----------------------|:----------------------------------------------------------|
-| User_ID                | ID do usuário                                             |
-| Product_ID             | ID do produto                                             |
-| Gender                 | Sexo do usuário                                           |
-| Age                    | Ano em intervalos                                         |
-| Occupation             | Ocupação (mascarada)                                      |
-| City_Category          | Categoria da cidade (A, B, C)                             |
-| StayInCurrentCityYears | Número de anos de permanência na cidade atual             |
-| Marital_Status         | Estado civil                                              |
-| Product_Category_1     | Categoria do produto (Mascarada)                          |
-| Product_Category_2     | Categoria que o produto pode pertencer também (Mascarada) |
-| Product_Category_3     | Categoria que o produto pode pertencer também (Mascarada) |
-| Purchase               | Valor da compra                                           |
-
-## 💡 Conceitos utilizados
-
-### 📕 No notebook "questions-ecommerce":
-
-- Leitura, união, tratamento e exportação de bases de dados com Pandas.
-- Manipulação e Extração de dados de um pd.Dataframe:
-    - Limpeza.
-    - Normalização.
-    - Uso de Atributos.
-    - Uso de Filtros.
-    - Uso de Métodos.
-    - Uso de "melting".
-    - Uso de Pivot_Table.
-
-### 📕 No notebook "exploratory-analysis-ecommerce":
-
-- Análise exploratória da base de dados:
-    - Correlação de variáveis com Seaborn e Matplotlib.
-    - Apresentação de dados com pandas.groupby.
+| User_ID                | User ID (key)                                             |
+| Product_ID             | Product ID (key)                                          |
+| Gender                 | User gender                                               |
+| Age                    | Interval range of user age                                |
+| Occupation             | Occupation (masked)                                       |
+| City_Category          | City Size Category (A, B, C)                              |
+| StayInCurrentCityYears | Number of Years the user is living in the current city    |
+| Marital_Status         | Marital status (Single or Married)                        |
+| Product_Category_1     | Product category (Masked)                                 |
+| Product_Category_2     | A 2nd possible product category (Masked)                  |
+| Product_Category_3     | A 3rd possible product category (Masked)                  |
+| Purchase               | Purchase value                                            |
