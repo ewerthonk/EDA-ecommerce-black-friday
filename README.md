@@ -33,7 +33,7 @@ Produce and EDA restricted to **visual analysis tools**. The challenge is to pro
 
 [1.0-eda.ipynb](references/diagrama_datasets.png)
 
-## 📈 Features
+# 📈 Features
 
 | Column                 | Description                                               |
 |:-----------------------|:----------------------------------------------------------|
@@ -61,3 +61,4 @@ Produce and EDA restricted to **visual analysis tools**. The challenge is to pro
     ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
     │                         and a short `-` delimited description, e.g.
     │                         `1.0--creating-the-model.ipynb`.
+    ├── references         <- images, reports, and other resources for the project
