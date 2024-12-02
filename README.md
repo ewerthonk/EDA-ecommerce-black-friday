@@ -1,5 +1,7 @@
 # 🔬 Exploratory Data Analysis: E-commerce sales during Black Friday
 
+*Exploratory Data Visual Analysis on Retail E-commercer Sales during Black Friday*
+
 <div align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/matplotlib-%230078b5.svg?style=for-the-badge&logo=matplotlib&logoColor=white">
@@ -8,15 +10,13 @@
 <img src="https://img.shields.io/badge/seaborn-add8e6?style=for-the-badge&logo=python&logoColor=333333">    
 </div>
 
-*Exploratory Data Visual Analysis on Retail E-commercer Sales during Black Friday*
-
 # 📖 Project
 
-## 👨🏻‍🏫 Introduction
+### 👨🏻‍🏫 Introduction
 
 Exploratory Data Analysis on a dataset containing Black Friday sales information of an retail e-commerce.
 
-## 🎯 Goal
+### 🎯 Goal
 
 Produce and EDA restricted to **visual analysis tools**. The challenge is to produce insights only by visualization. The notebook explores a few questions:
 
@@ -25,9 +25,13 @@ Produce and EDA restricted to **visual analysis tools**. The challenge is to pro
 - If one wants to sell more products of category 14, should one invest more in publicity for marital status 0 or 1?
 - Which variables are correlated to the value of the purchase?
 
-# 📊 Chart Example
+### 📊 Chart Example
 
 ![Chart Example](references/chart_example.png)
+
+ # 🗄 Notebooks
+
+[1.0-eda.ipynb](references/diagrama_datasets.png)
 
 ## 📈 Features
 
@@ -45,10 +49,6 @@ Produce and EDA restricted to **visual analysis tools**. The challenge is to pro
 | Product_Category_2     | A 2nd possible product category (Masked)                  |
 | Product_Category_3     | A 3rd possible product category (Masked)                  |
 | Purchase               | Purchase value                                            |
-
- # 🗄 Notebooks
-
-[1.0-eda.ipynb](references/diagrama_datasets.png)
 
 # 📦 Folder Structure
 
