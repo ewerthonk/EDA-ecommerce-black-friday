@@ -29,9 +29,9 @@ Produce and EDA restricted to **visual analysis tools**. The challenge is to pro
 
 ![Chart Example](references/chart_example.png)
 
- # 🗄 Notebooks
+# 🗄 Notebooks
 
-[1.0-eda.ipynb](notebooks/1.0-eda.ipynb)
+- [1.0-eda.ipynb](notebooks/1.0-eda.ipynb)
 
 # 📈 Features
 
