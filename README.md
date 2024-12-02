@@ -31,7 +31,7 @@ Produce and EDA restricted to **visual analysis tools**. The challenge is to pro
 
  # 🗄 Notebooks
 
-[1.0-eda.ipynb](references/diagrama_datasets.png)
+[1.0-eda.ipynb](notebooks/1.0-eda.ipynb)
 
 # 📈 Features
 
