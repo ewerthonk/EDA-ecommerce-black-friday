@@ -1,6 +1,10 @@
 # 🔬 Exploratory Data Analysis: E-commerce sales during Black Friday
 
-*Exploratory Data Visual Analysis on Retail E-commercer Sales during Black Friday*
+<div align="center">
+  <em>Exploratory Data Visual Analysis on Retail E-commercer Sales during Black Friday.</em>
+</div>
+
+<br>
 
 <div align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
