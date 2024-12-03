@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/seaborn-add8e6?style=for-the-badge&logo=python&logoColor=333333">    
 </div>
 
-# 📖 Project
+## 📖 Project
 
 ### 👨🏻‍🏫 Introduction
 
@@ -29,11 +29,11 @@ Produce and EDA restricted to **visual analysis tools**. The challenge is to pro
 
 ![Chart Example](references/chart_example.png)
 
-# 🗄 Notebooks
+## 🗄 Notebooks
 
 - [1.0-eda.ipynb](notebooks/1.0-eda.ipynb)
 
-# 📈 Features
+## 📈 Features
 
 | Column                 | Description                                               |
 |:-----------------------|:----------------------------------------------------------|
@@ -50,7 +50,7 @@ Produce and EDA restricted to **visual analysis tools**. The challenge is to pro
 | Product_Category_3     | A 3rd possible product category (Masked)                  |
 | Purchase               | Purchase value                                            |
 
-# 📦 Folder Structure
+## 📦 Folder Structure
 
     ├── LICENSE
     ├── README.md          <- The top-level README for developers using this project.
